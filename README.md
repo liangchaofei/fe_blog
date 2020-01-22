@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-01-21 14:20:37
- * @LastEditTime : 2020-01-21 18:44:44
+ * @LastEditTime : 2020-01-22 11:10:07
  * @LastEditors  : Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /fe_blog/README.md
@@ -32,3 +32,13 @@
 [css实现四个箭头方向](https://github.com/liangchaofei/fe_blog/blob/master/css/02/README.md)
 
 [css实现吸顶效果](https://github.com/liangchaofei/fe_blog/blob/master/css/03/README.md)
+
+[css实现文本折行](https://github.com/liangchaofei/fe_blog/blob/master/css/04/README.md)
+
+[ul中的文字在div下整体水平居中](https://github.com/liangchaofei/fe_blog/blob/master/css/05/README.md)
+
+[文字在图片上面](https://github.com/liangchaofei/fe_blog/blob/master/css/06/README.md)
+
+### git
+
+[git命令总结](https://github.com/liangchaofei/fe_blog/blob/master/git/README.md)
