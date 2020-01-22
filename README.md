@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-01-21 14:20:37
- * @LastEditTime : 2020-01-22 14:21:15
+ * @LastEditTime : 2020-01-22 16:37:52
  * @LastEditors  : Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /fe_blog/README.md
@@ -21,6 +21,35 @@
 [函数调用四种方式初学习](https://github.com/liangchaofei/fe_blog/blob/master/js/06/README.md)
 
 [作用域和闭包初学习](https://github.com/liangchaofei/fe_blog/blob/master/js/07/README.md)
+
+[随机生成颜色](https://github.com/liangchaofei/fe_blog/blob/master/js/08/README.md)
+
+[escape、encodeURI、decodeURI、encodeURIComponent和decodeURIComponent的区别](https://github.com/liangchaofei/fe_blog/blob/master/js/09/README.md)
+
+[获取url参数](https://github.com/liangchaofei/fe_blog/blob/master/js/10/README.md)
+
+[生成相近颜色](https://github.com/liangchaofei/fe_blog/blob/master/js/11/README.md)
+
+[高亮显示当前url](https://github.com/liangchaofei/fe_blog/blob/master/js/12/README.md)
+
+[将数字转为每三个数加逗号](https://github.com/liangchaofei/fe_blog/blob/master/js/13/README.md)
+
+[如何判断{}为空](https://github.com/liangchaofei/fe_blog/blob/master/js/14/README.md)
+
+[前端异常监控上报](https://github.com/liangchaofei/fe_blog/blob/master/js/15/README.md)
+
+[删除数组指定元素](https://github.com/liangchaofei/fe_blog/blob/master/js/16/README.md)
+
+[多维数组降维](https://github.com/liangchaofei/fe_blog/blob/master/js/17/README.md)
+
+[数组splice用法实现增加，修改，删除](https://github.com/liangchaofei/fe_blog/blob/master/js/18/README.md)
+
+[js-在div中插入图片](https://github.com/liangchaofei/fe_blog/blob/master/js/19/README.md)
+
+[innerHTML 和 document.write有什么区别](https://github.com/liangchaofei/fe_blog/blob/master/js/20/README.md)
+
+[cookie介绍](https://github.com/liangchaofei/fe_blog/blob/master/js/21/README.md)
+
 
 ### jquery
 [query判断checkbox是否被选中](https://github.com/liangchaofei/fe_blog/blob/master/jq/01/README.md)
@@ -52,6 +81,19 @@
 [React Router中Link和NavLink](https://github.com/liangchaofei/fe_blog/blob/master/react/01/README.md)
 
 [react hooks](https://github.com/liangchaofei/fe_blog/blob/master/react/02/README.md)
+
+[react-compose](https://github.com/liangchaofei/fe_blog/blob/master/react/03/README.md)
+
+[react事件](https://github.com/liangchaofei/fe_blog/blob/master/react/04/README.md)
+
+[react 实现根据点击锚点跳转到对应到位置](https://github.com/liangchaofei/fe_blog/blob/master/react/05/README.md)
+
+[react生成二维码并下载](https://github.com/liangchaofei/fe_blog/blob/master/react/06/README.md)
+
+
+### webpack 
+
+[webpack基础配置](https://github.com/liangchaofei/fe_blog/blob/master/webpack/01/README.md)
 
 ### node
 
