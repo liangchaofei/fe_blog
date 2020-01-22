@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-01-21 14:20:37
- * @LastEditTime : 2020-01-22 11:30:45
+ * @LastEditTime : 2020-01-22 11:57:07
  * @LastEditors  : Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /fe_blog/README.md
@@ -46,6 +46,14 @@
 [页面导入样式时，使用link和@import有什么区别？](https://github.com/liangchaofei/fe_blog/blob/master/html/02/README.md)
 
 [实现一个红绿灯](https://github.com/liangchaofei/fe_blog/blob/master/html/03/README.md)
+
+### node
+
+[koa中间件](https://github.com/liangchaofei/fe_blog/blob/master/node/01/README.md)
+
+### python
+
+[python基础](https://github.com/liangchaofei/fe_blog/blob/master/python/01/README.md)
 
 ### git
 
