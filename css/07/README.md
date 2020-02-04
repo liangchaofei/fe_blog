@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-02-03 11:36:17
- * @LastEditTime : 2020-02-04 17:54:01
+ * @LastEditTime : 2020-02-04 17:59:26
  * @LastEditors  : Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /fe_blog/css/07/README.md
@@ -13,8 +13,8 @@
   - border-box (IE 盒模型)
 
 + content-box
-![alt 属性文本]('./01.png')
+![alt 属性文本](./01.png)
 
 + border-box
   - width = border + padding
-![alt 属性文本]('./02.png')
+![alt 属性文本](./02.png)
