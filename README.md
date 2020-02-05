@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-01-21 14:20:37
- * @LastEditTime : 2020-02-03 11:36:04
+ * @LastEditTime : 2020-02-05 10:57:15
  * @LastEditors  : Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /fe_blog/README.md
@@ -70,6 +70,7 @@
 
 [css盒模型](https://github.com/liangchaofei/fe_blog/blob/master/css/07/README.md)
 
+[border画一个三角形](https://github.com/liangchaofei/fe_blog/blob/master/css/08/README.md)
 ### html
 
 [video禁止下载视频](https://github.com/liangchaofei/fe_blog/blob/master/html/01/README.md)

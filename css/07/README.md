@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-02-03 11:36:17
- * @LastEditTime : 2020-02-04 18:00:57
+ * @LastEditTime : 2020-02-04 18:23:39
  * @LastEditors  : Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /fe_blog/css/07/README.md
@@ -39,7 +39,7 @@
     </html>
 ```
 + content-box
-
+  - width和height不包括padding 和 border
 ![alt 属性文本](./01.png)
 
 + border-box
