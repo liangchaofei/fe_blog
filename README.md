@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-01-21 14:20:37
- * @LastEditTime : 2020-02-06 15:31:45
+ * @LastEditTime : 2020-02-07 15:10:41
  * @LastEditors  : Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /fe_blog/README.md
@@ -50,6 +50,11 @@
 
 [cookie介绍](https://github.com/liangchaofei/fe_blog/blob/master/js/21/README.md)
 
+[原型/构造函数/实例](https://github.com/liangchaofei/fe_blog/blob/master/js/22/README.md)
+
+[浅拷贝和深拷贝](https://github.com/liangchaofei/fe_blog/blob/master/js/23/README.md)
+
+[new运算符的执行过程](https://github.com/liangchaofei/fe_blog/blob/master/js/24/README.md)
 
 ### jquery
 [query判断checkbox是否被选中](https://github.com/liangchaofei/fe_blog/blob/master/jq/01/README.md)

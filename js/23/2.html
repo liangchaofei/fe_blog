@@ -1,0 +1,38 @@
+<!--
+ * @Author: your name
+ * @Date: 2020-02-07 10:52:23
+ * @LastEditTime : 2020-02-07 10:56:24
+ * @LastEditors  : Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: /fe_blog/js/23/2.html
+ -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+    
+        var o1 = {
+            a:1
+        }
+        var o2 = o1;
+        console.log(o1 === o2) // true
+        o2.a = 2;
+        console.log('o1',o1)    // {a:2}
+        console.log('o2',o2)    // {a:2}
+
+
+        var a1 = [1,2,3]
+        var a2 = a1;
+        console.log(a1 === a2)  // true
+        a2.push(4)
+        console.log('a1',a1)    // [1,2,3,4]
+        console.log('a2',a2)    // [1,2,3,4]
+    </script>
+</body>
+</html>

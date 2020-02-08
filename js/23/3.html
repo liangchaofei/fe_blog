@@ -1,0 +1,57 @@
+<!--
+ * @Author: your name
+ * @Date: 2020-02-07 11:06:56
+ * @LastEditTime : 2020-02-07 11:16:40
+ * @LastEditors  : Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: /fe_blog/js/23/3.html
+ -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+    
+        // 递归实现一个深拷贝
+        function deepClone(source){
+            if(!source || typeof source !== 'object'){
+                throw new Error('errow arguments')
+            }
+            console.log('source.constructo',source.constructor === Array)
+            var targetObj = source.constructor === Array ? [] : {};
+
+            for(var keys in source){
+                if(source.hasOwnProperty(keys)){
+                    if(source[keys] && typeof source[keys] === 'object'){
+                        targetObj[keys] = source[keys].constructor === Array ? [] : {};
+                        targetObj[keys] = deepClone(source[keys])
+                    }else{
+                        targetObj[keys] = source[keys]
+                    }
+                }
+            }
+            return targetObj;
+        }
+
+        var o1 = {
+            arr:[1,2,3],
+            obj:{
+                key:'val'
+            },
+            func:function(){
+                return 1;
+            }
+        }
+
+        var o2 = deepClone(o1);
+        console.log(o1 === o2)  // false
+        console.log(o2.obj === o1.obj) // false
+        console.log(o1.func === o2.func)    // true
+    </script>
+</body>
+</html>
