@@ -1,0 +1,44 @@
+<!--
+ * @Author: your name
+ * @Date: 2020-02-09 15:17:12
+ * @LastEditTime : 2020-02-09 15:20:56
+ * @LastEditors  : Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: /fe_blog/js/26/1.html
+ -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        let person = [
+            { name: "lilei", age: "45" },
+            { name: "hanmeimei", age: "16" },
+            { name: "rose", age: "18" },
+            { name: "jack", age: "22" },
+            { name: "david", age: "25" },
+            { name: "bruce", age: "30" },
+            { name: "roby", age: "26" },
+            { name: "TMC", age: "11" },
+            { name: "lee", age: "40" },
+        ]
+        // for (var i = 0; i < person.length; i++) { if (person[i].age > 18) { person.splice(i--, 1) } }
+        //         for(var i=person.length-1;i>-1;i--){
+        //      if(person[i].age>18){
+        //         person.splice(i,1)
+        //     }
+        // }
+
+        var newPerson = person.filter((p) => p.age <= 18)
+        console.log('newPerson', newPerson)
+    </script>
+</body>
+
+</html>
