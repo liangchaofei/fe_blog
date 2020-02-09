@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-01-21 14:20:37
- * @LastEditTime : 2020-02-07 15:10:41
+ * @LastEditTime : 2020-02-08 15:20:08
  * @LastEditors  : Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /fe_blog/README.md
@@ -55,6 +55,8 @@
 [浅拷贝和深拷贝](https://github.com/liangchaofei/fe_blog/blob/master/js/23/README.md)
 
 [new运算符的执行过程](https://github.com/liangchaofei/fe_blog/blob/master/js/24/README.md)
+
+[防抖与节流](https://github.com/liangchaofei/fe_blog/blob/master/js/25/README.md)
 
 ### jquery
 [query判断checkbox是否被选中](https://github.com/liangchaofei/fe_blog/blob/master/jq/01/README.md)
