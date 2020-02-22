@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-01-21 14:20:37
- * @LastEditTime : 2020-02-09 15:16:55
+ * @LastEditTime : 2020-02-22 16:17:20
  * @LastEditors  : Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /fe_blog/README.md
@@ -59,6 +59,11 @@
 [防抖与节流](https://github.com/liangchaofei/fe_blog/blob/master/js/25/README.md)
 
 [循环数组时使用splice()](https://github.com/liangchaofei/fe_blog/blob/master/js/26/README.md)
+
+
+[对象数组去重](https://github.com/liangchaofei/fe_blog/blob/master/js/27/README.md)
+
+[手动封装一个请求函数，可以设置最大请求次数，请求成功则不再请求，请求失败则继续请求直到超过最大次数(流利说)](https://github.com/liangchaofei/fe_blog/blob/master/js/28/README.md)
 
 ### jquery
 [query判断checkbox是否被选中](https://github.com/liangchaofei/fe_blog/blob/master/jq/01/README.md)
