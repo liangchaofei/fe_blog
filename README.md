@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-01-21 14:20:37
- * @LastEditTime : 2020-02-22 17:10:17
+ * @LastEditTime : 2020-02-22 17:59:49
  * @LastEditors  : Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /fe_blog/README.md
@@ -69,6 +69,7 @@
 
 [实现一个函数判断数据类型](https://github.com/liangchaofei/fe_blog/blob/master/js/30/README.md)
 
+[手写数组map,filter等方法](https://github.com/liangchaofei/fe_blog/blob/master/js/31/README.md)
 
 ### jquery
 [query判断checkbox是否被选中](https://github.com/liangchaofei/fe_blog/blob/master/jq/01/README.md)
