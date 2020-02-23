@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-01-21 14:20:37
- * @LastEditTime : 2020-02-23 10:35:08
+ * @LastEditTime : 2020-02-23 10:50:40
  * @LastEditors  : Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /fe_blog/README.md
@@ -72,6 +72,8 @@
 [手写数组map,filter等方法](https://github.com/liangchaofei/fe_blog/blob/master/js/31/README.md)
 
 [手写数组flat方法](https://github.com/liangchaofei/fe_blog/blob/master/js/32/README.md)
+
+[手写数组乱序方法](https://github.com/liangchaofei/fe_blog/blob/master/js/33/README.md)
 
 ### jquery
 [query判断checkbox是否被选中](https://github.com/liangchaofei/fe_blog/blob/master/jq/01/README.md)
