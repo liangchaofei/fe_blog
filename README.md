@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-01-21 14:20:37
- * @LastEditTime: 2020-02-25 00:20:59
+ * @LastEditTime: 2020-03-02 23:18:55
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /fe_blog/README.md
@@ -78,6 +78,12 @@
 [字符串驼峰和下划线互转](https://github.com/liangchaofei/fe_blog/blob/master/js/34/README.md)
 
 [解析 URL Params 为对象](https://github.com/liangchaofei/fe_blog/blob/master/js/35/README.md)
+
+[查找字符串中出现最多的字符和个数](https://github.com/liangchaofei/fe_blog/blob/master/js/36/README.md)
+
+[this、apply、call、bind](https://github.com/liangchaofei/fe_blog/blob/master/js/37/README.md)
+
+[GET和POST的区别](https://github.com/liangchaofei/fe_blog/blob/master/js/38/README.md)
 
 ### jquery
 [query判断checkbox是否被选中](https://github.com/liangchaofei/fe_blog/blob/master/jq/01/README.md)
