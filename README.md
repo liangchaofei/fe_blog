@@ -85,6 +85,8 @@
 
 [GET和POST的区别](https://github.com/liangchaofei/fe_blog/blob/master/js/38/README.md)
 
+[高性能网站建设指南](https://github.com/liangchaofei/fe_blog/blob/master/js/39/README.md)
+
 ### jquery
 [query判断checkbox是否被选中](https://github.com/liangchaofei/fe_blog/blob/master/jq/01/README.md)
 
