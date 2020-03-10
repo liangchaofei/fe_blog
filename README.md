@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-01-21 14:20:37
- * @LastEditTime: 2020-03-10 15:21:24
+ * @LastEditTime: 2020-03-10 15:39:22
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /fe_blog/README.md
@@ -98,6 +98,8 @@
 [h5 拖拽](https://github.com/liangchaofei/fe_blog/blob/master/js/44/README.md)
 
 [js拖拽排序](https://github.com/liangchaofei/fe_blog/blob/master/js/45/README.md)
+
+[js面向对象精要](https://github.com/liangchaofei/fe_blog/blob/master/js/46/README.md)
 
 ### jquery
 [query判断checkbox是否被选中](https://github.com/liangchaofei/fe_blog/blob/master/jq/01/README.md)
