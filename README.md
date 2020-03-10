@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-01-21 14:20:37
- * @LastEditTime: 2020-03-10 15:39:22
+ * @LastEditTime: 2020-03-10 17:34:26
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /fe_blog/README.md
@@ -101,6 +101,18 @@
 
 [js面向对象精要](https://github.com/liangchaofei/fe_blog/blob/master/js/46/README.md)
 
+[js去除字符串中最后一个指定的字符](https://github.com/liangchaofei/fe_blog/blob/master/js/47/README.md)
+
+[写一个方法获取图片的原始宽高](https://github.com/liangchaofei/fe_blog/blob/master/js/48/README.md)
+
+[写一个方法随机生成指定位数的字符串](https://github.com/liangchaofei/fe_blog/blob/master/js/49/README.md)
+
+[介绍下前端加密的常见场景和方法](https://github.com/liangchaofei/fe_blog/blob/master/js/50/README.md)
+
+[实现一个 JSON.stringify](https://github.com/liangchaofei/fe_blog/blob/master/js/51/README.md)
+
+[说说instanceof和typeof的实现原理并自己模拟实现一个instanceof](https://github.com/liangchaofei/fe_blog/blob/master/js/52/README.md)
+
 ### jquery
 [query判断checkbox是否被选中](https://github.com/liangchaofei/fe_blog/blob/master/jq/01/README.md)
 
@@ -140,6 +152,11 @@
 
 [图片和文字在图片上垂直水平居中](https://github.com/liangchaofei/fe_blog/blob/master/css/16/README.md)
 
+[在页面上隐藏元素的方法有哪些](https://github.com/liangchaofei/fe_blog/blob/master/css/17/README.md)
+
+[CSS3有哪些新增的特性](https://github.com/liangchaofei/fe_blog/blob/master/css/18/README.md)
+
+[用CSS画出一个任意角度的扇形，可以写多种实现的方法](https://github.com/liangchaofei/fe_blog/blob/master/css/19/README.md)
 
 ### html
 
@@ -193,3 +210,7 @@
 ### nginx
 
 [nginx总结](https://github.com/liangchaofei/fe_blog/blob/master/nginx/README.md)
+
+### http
+
+[介绍下 HTTPS 中间人攻击](https://github.com/liangchaofei/fe_blog/blob/master/http/01/README.md)
