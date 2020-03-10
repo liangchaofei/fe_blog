@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-01-21 14:20:37
- * @LastEditTime: 2020-03-03 21:17:43
+ * @LastEditTime: 2020-03-10 15:21:24
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /fe_blog/README.md
@@ -87,6 +87,18 @@
 
 [高性能网站建设指南](https://github.com/liangchaofei/fe_blog/blob/master/js/39/README.md)
 
+[请写出如下代码运行的结果并解释为什么？](https://github.com/liangchaofei/fe_blog/blob/master/js/40/README.md)
+
+[求两个日期中间的有效日期](https://github.com/liangchaofei/fe_blog/blob/master/js/41/README.md)
+
+[JS阻止冒泡和取消默认事件(默认行为)](https://github.com/liangchaofei/fe_blog/blob/master/js/42/README.md)
+
+[1和new Number(1)有什么区别](https://github.com/liangchaofei/fe_blog/blob/master/js/43/README.md)
+
+[h5 拖拽](https://github.com/liangchaofei/fe_blog/blob/master/js/44/README.md)
+
+[js拖拽排序](https://github.com/liangchaofei/fe_blog/blob/master/js/45/README.md)
+
 ### jquery
 [query判断checkbox是否被选中](https://github.com/liangchaofei/fe_blog/blob/master/jq/01/README.md)
 
@@ -114,6 +126,19 @@
 
 [居中布局](https://github.com/liangchaofei/fe_blog/blob/master/css/10/README.md)
 
+[transition、animation、transform三者有什么区别](https://github.com/liangchaofei/fe_blog/blob/master/css/11/README.md)
+
+[z-index有时不起作用的原因是什么？怎么解决](https://github.com/liangchaofei/fe_blog/blob/master/css/12/README.md)
+
+[word-wrap、word-break和white-space有什么区别](https://github.com/liangchaofei/fe_blog/blob/master/css/13/README.md)
+
+[css脱离文档流的方法](https://github.com/liangchaofei/fe_blog/blob/master/css/14/README.md)
+
+[第一行和第二行都是什么颜色](https://github.com/liangchaofei/fe_blog/blob/master/css/15/README.md)
+
+[图片和文字在图片上垂直水平居中](https://github.com/liangchaofei/fe_blog/blob/master/css/16/README.md)
+
+
 ### html
 
 [video禁止下载视频](https://github.com/liangchaofei/fe_blog/blob/master/html/01/README.md)
@@ -121,6 +146,10 @@
 [页面导入样式时，使用link和@import有什么区别？](https://github.com/liangchaofei/fe_blog/blob/master/html/02/README.md)
 
 [实现一个红绿灯](https://github.com/liangchaofei/fe_blog/blob/master/html/03/README.md)
+
+[如何在 H5 和小程序项目中计算白屏时间和首屏时间](https://github.com/liangchaofei/fe_blog/blob/master/html/04/README.md)
+
+[input 的onchange和onblur有什么区别](https://github.com/liangchaofei/fe_blog/blob/master/html/05/README.md)
 
 ### react
 
@@ -135,6 +164,8 @@
 [react 实现根据点击锚点跳转到对应到位置](https://github.com/liangchaofei/fe_blog/blob/master/react/05/README.md)
 
 [react生成二维码并下载](https://github.com/liangchaofei/fe_blog/blob/master/react/06/README.md)
+
+[react父组件调用子组件方法](https://github.com/liangchaofei/fe_blog/blob/master/react/07/README.md)
 
 
 ### webpack 
