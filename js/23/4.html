@@ -1,0 +1,40 @@
+<!--
+ * @Author: your name
+ * @Date: 2020-02-07 11:22:34
+ * @LastEditTime : 2020-02-07 11:23:18
+ * @LastEditors  : Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: /fe_blog/js/23/4.html
+ -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+
+        //// 利用JSON序列化实现一个深拷贝
+        function deepClone(source) {
+            return JSON.parse(JSON.stringify(source))
+        }
+        var o1 = {
+            arr: [1, 2, 3],
+            obj: {
+                key: 'value'
+            },
+            func: function () {
+                return 1;
+            }
+        };
+        var o2 = deepClone(o1);
+        console.log(o2); // => {arr: [1,2,3], obj: {key: 'value'}}
+    </script>
+</body>
+
+</html>
