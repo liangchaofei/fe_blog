@@ -1,11 +1,3 @@
-<!--
- * @Author: your name
- * @Date: 2019-07-10 09:49:52
- * @LastEditTime : 2020-01-22 16:41:07
- * @LastEditors  : Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: /Fe_Log/git/git命令总结.md
- -->
 # git命令总结
 
 ## 移除文件
