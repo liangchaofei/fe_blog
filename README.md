@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-01-21 14:20:37
- * @LastEditTime: 2020-09-06 22:10:02
+ * @LastEditTime: 2020-10-21 21:29:32
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /fe_blog/README.md
@@ -190,7 +190,7 @@
 ### webpack 
 
 [webpack基础配置](https://github.com/liangchaofei/fe_blog/blob/master/webpack/01/README.md)
-
+[编译简写webpack](https://github.com/liangchaofei/fe_blog/blob/master/webpack/编译简写webpack/README.md)
 ### node
 
 [koa中间件](https://github.com/liangchaofei/fe_blog/blob/master/node/01/README.md)
